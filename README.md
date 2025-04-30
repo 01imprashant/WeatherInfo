@@ -1,4 +1,4 @@
-# Weatherio
+# WeatherInfo
 
 Weatherio is a web application that provides accurate and real-time weather information for cities around the world. With Weatherio, you can explore current weather conditions, 5-day forecasts, wind speed, sunrise and sunset times, air quality, humidity, and more. Stay informed about weather changes effortlessly.
 
